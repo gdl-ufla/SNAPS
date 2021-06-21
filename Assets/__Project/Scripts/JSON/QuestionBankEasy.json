@@ -1,0 +1,250 @@
+{
+    "Questions":
+    [
+        
+        {
+            "SystemCode": "Pulm",
+            "SystemType": "Simpático",
+            "System": "Pulmões",
+            "QuestionTheme": "Neurotransmissor",
+            "Answer": "Noradrenalina",
+            "Hint": "sintetizado a partir do aminoácido tirosina e ainda pode sofrer transformação em outro neurotransmissor.",
+            "Options": ["Acetilcolina", "Adrenalina", "Dopamina"]
+        },
+        {
+            "SystemCode": "Pulm",
+            "SystemType": "Simpático",
+            "System": "Pulmões",
+            "QuestionTheme": "Receptor",
+            "Answer": "Beta 2",
+            "Hint": "receptores mais sensíveis à adrenalina do que a noradrenalina.",
+            "Options": ["Beta 1", "Alfa 1", "Alfa 2"]
+        },
+        {
+            "SystemCode": "Pulm",
+            "SystemType": "Simpático",
+            "System": "Pulmões",
+            "QuestionTheme": "Efeito",
+            "Answer": "Broncodilatação",
+            "Hint": "relaxa a musculatura lisa bronquiolar.",
+            "Options": ["Broncoconstrição", "Aumento da motilidade e secreção", "Diminuição da motilidade e secreção"]
+        },
+        {
+            "SystemCode": "Pulm",
+            "SystemType": "Parassimpático",
+            "System": "Pulmões",
+            "QuestionTheme": "Neurotransmissor",
+            "Answer": "Acetilcolina",
+            "Hint": "sintetizada a partir da colina.",
+            "Options": ["Noradrenalina", "Adrenalina", "Dopamina"]
+        },
+        {
+            "SystemCode": "Pulm",
+            "SystemType": "Parassimpático",
+            "System": "Pulmões",
+            "QuestionTheme": "Receptor",
+            "Answer": "M3",
+            "Hint": "acopla-se preferencialmente com a proteína Gq/11, induz a ativação da fosfolipase C.",
+            "Options": ["M2", "M4", "M5"]
+        },
+        {
+            "SystemCode": "Pulm",
+            "SystemType": "Parassimpático",
+            "System": "Pulmões",
+            "QuestionTheme": "Efeito",
+            "Answer": "Broncoconstrição",
+            "Hint": "contrai a musculatura lisa bronquiolar.",
+            "Options": ["Broncodilatação", "Aumento da motilidade e secreção", "Diminuição da motilidade e secreção"]
+        },
+        {
+            "SystemCode": "Cor",
+            "SystemType": "Simpático",
+            "System": "Coração",
+            "QuestionTheme": "Neurotransmissor",
+            "Answer": "Noradrenalina",
+            "Hint": "sintetizado a partir do aminoácido tirosina e ainda pode sofrer transformação em outro neurotransmissor.",
+            "Options": ["Acetilcolina", "Adrenalina", "Dopamina"]
+        },
+        {
+            "SystemCode": "Cor",
+            "SystemType": "Simpático",
+            "System": "Coração",
+            "QuestionTheme": "Receptor",
+            "Answer": "Beta 1",
+            "Hint": "responde de forma igualmente forte tanto a adrenalina quanto a noradrenalina.",
+            "Options": ["Beta 2", "Alfa 1", "Alfa 2"]
+        },
+        {
+            "SystemCode": "Cor",
+            "SystemType": "Simpático",
+            "System": "Coração",
+            "QuestionTheme": "Efeito",
+            "Answer": "Aumenta contração",
+            "Hint": "simpático é relacionado a luta ou fuga.",
+            "Options": ["Diminui contração", "Aumenta a frequência", "Diminui a frequência"]
+        },
+        {
+            "SystemCode": "Cor",
+            "SystemType": "Parassimpático",
+            "System": "Coração",
+            "QuestionTheme": "Neurotransmissor",
+            "Answer": "Acetilcolina",
+            "Hint": "sua liberação pode ser bloqueada pela toxina botulínica.",
+            "Options": ["Noradrenalina", "Adrenalina", "Dopamina"]
+        },
+        {
+            "SystemCode": "Cor",
+            "SystemType": "Parassimpático",
+            "System": "Coração",
+            "QuestionTheme": "Receptor",
+            "Answer": "M2",
+            "Hint": "receptor acoplado a proteína G inibitória, sua ativação está associada à diminuição de AMPc e inibição de canais de Ca2+ voltagem dependente e à ativação de canais retificadores de K+.",
+            "Options": ["M3", "M4", "M5"]
+        },
+        {
+            "SystemCode": "Cor",
+            "SystemType": "Parassimpático",
+            "System": "Coração",
+            "QuestionTheme": "Efeito",
+            "Answer": "Diminui a frequência",
+            "Hint": "sistema nervoso parassimpático é relacionado a descanso e alimentação.",
+            "Options": ["Aumenta contração", "Aumenta a frequência", "Diminui a contração"]
+        },
+              
+        {
+            "SystemCode": "PressArt",
+            "SystemType": "Simpático",
+            "System": "Pressão arterial",
+            "QuestionTheme": "Neurotransmissor",
+            "Answer": "Noradrenalina",
+            "Hint": "sintetizado a partir do aminoácido tirosina e ainda pode sofrer transformação em outro neurotransmissor.",
+            "Options": ["Acetilcolina", "Adrenalina", "Dopamina"]
+        },
+        {
+            "SystemCode": "PressArt",
+            "SystemType": "Simpático",
+            "System": "Pressão arterial",
+            "QuestionTheme": "Receptor",
+            "Answer": "Alfa e Beta",
+            "Hint": "respondem às catecolaminas.",
+            "Options": ["Nicotínico", "M3"]
+        },
+        {
+            "SystemCode": "PressArt",
+            "SystemType": "Simpático",
+            "System": "Pressão arterial",
+            "QuestionTheme": "Efeito",
+            "Answer": "Aumento da pressão arterial sistólica e diastólica",
+            "Hint": "aumento do débito cardíaco.",
+            "Options": ["Diminuição da pressão arterial sistólica e diastólica", "Aumento da pressão arterial sistólica e redução da diastólica"]
+        },
+        {
+            "SystemCode": "PressArt",
+            "SystemType": "Parassimpático",
+            "System": "Pressão arterial",
+            "QuestionTheme": "Neurotransmissor",
+            "Answer": "Acetilcolina",
+            "Hint": "sintetizado a partir do aminoácido tirosina e ainda pode sofrer transformação em outro neurotransmissor.",
+            "Options": ["Noradrenalina", "Adrenalina", "Dopamina"]
+        },
+        {
+            "SystemCode": "PressArt",
+            "SystemType": "Parassimpático",
+            "System": "Pressão arterial",
+            "QuestionTheme": "Receptor",
+            "Answer": "M2",
+            "Hint": "receptor acoplado a proteína G inibitória, sua ativação está associada à diminuição de AMPc e inibição de canais de Ca2+ voltagem dependente e à ativação de canais retificadores de K+.",
+            "Options": ["Muscarínico e Nicotínico"]
+        },
+        {
+            "SystemCode": "PressArt",
+            "SystemType": "Parassimpático",
+            "System": "Pressão arterial",
+            "QuestionTheme": "Efeito",
+            "Answer": "Redução da pressão arterial",
+            "Hint": "sistema nervoso parassimpático é relacionado a descanso e alimentação.",
+            "Options": ["Aumento da pressão arterial", "Não altera os níveis pressóricos"]
+        },
+        {
+            "SystemCode": "TratoDigest",
+            "SystemType": "Simpático",
+            "System": "Trato digestório",
+            "QuestionTheme": "Neurotransmissor",
+            "Answer": "Noradrenalina",
+            "Hint": "sintetizado a partir do aminoácido tirosina e ainda pode sofrer transformação em outro neurotransmissor.",
+            "Options": ["Acetilcolina", "Adrenalina", "Dopamina"]
+        },
+        {
+            "SystemCode": "TratoDigest",
+            "SystemType": "Simpático",
+            "System": "Trato digestório",
+            "QuestionTheme": "Receptor",
+            "Answer": "Alfa 1",
+            "Hint": "responde às catecolaminas.",
+            "Options": ["Nicotínico", "M3"]
+        },
+        {
+            "SystemCode": "TratoDigest",
+            "SystemType": "Simpático",
+            "System": "Trato digestório",
+            "QuestionTheme": "Efeito",
+            "Answer": "Contração de esfíncteres",
+            "Hint": "simpático se relaciona a luta ou fuga.",
+            "Options": ["Relaxamento de esfíncteres", "Tônus dos esfíncteres inalterado"]
+        },
+        {
+            "SystemCode": "TratoDigest",
+            "SystemType": "Parassimpático",
+            "System": "Trato digestório",
+            "QuestionTheme": "Neurotransmissor",
+            "Answer": "Acetilcolina",
+            "Hint": "sintetizada a partir da colina.",
+            "Options": ["Noradrenalina", "Dopamina"]
+        },
+        {
+            "SystemCode": "TratoDigest",
+            "SystemType": "Parassimpático",
+            "System": "Trato digestório",
+            "QuestionTheme": "Receptor",
+            "Answer": "M3",
+            "Hint": "acopla-se preferencialmente com a proteína Gq/11, induz a ativação da fosfolipase C, que promove a hidrólise de fosfoinositídeos presentes na membrana e a produção de diacilglicerol e inositol trifosfato (segundos mensageiros).",
+            "Options": ["Alfa", "Nicotínico"]
+        },
+        {
+            "SystemCode": "TratoDigest",
+            "SystemType": "Parassimpático",
+            "System": "Trato digestório",
+            "QuestionTheme": "Efeito",
+            "Answer": "Aumento do tônus e relaxamento de esfíncteres",
+            "Hint": "sistema nervoso parassimpático é relacionado a descanso e alimentação.",
+            "Options": ["Redução do tônus e contração dos esfíncteres", "Aumento do tônus e contração dos esfíncteres"]
+        },
+        {
+            "SystemCode": "TratoGastIntest",
+            "SystemType": "Simpático",
+            "System": "Trato gastrointestinal",
+            "QuestionTheme": "Neurotransmissor",
+            "Answer": "Noradrenalina",
+            "Hint": "neurotransmissor que tem maior efeito sobre receptores alfa do que beta.",
+            "Options": ["Acetilcolina", "Adrenalina"]
+        },
+        {
+            "SystemCode": "TratoGastIntest",
+            "SystemType": "Simpático",
+            "System": "Trato gastrointestinal",
+            "QuestionTheme": "Receptor",
+            "Answer": "Beta 2",
+            "Hint": "receptores mais sensíveis à adrenalina do que a noradrenalina.",
+            "Options": ["Alfa 1", "Alfa 2"]
+        },
+        {
+            "SystemCode": "TratoGastIntest",
+            "SystemType": "Simpático",
+            "System": "Trato gastrointestinal",
+            "QuestionTheme": "Efeito",
+            "Answer": "Relaxamento da musculatura lisa",
+            "Hint": "simpático está relacionado a luta ou fuga.",
+            "Options": ["Contração da musculatura lisa", "Não altera o tônus da musculatura lisa"]
+        }
+    ]
+}

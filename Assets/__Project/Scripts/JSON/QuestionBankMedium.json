@@ -1,0 +1,446 @@
+{
+    "Questions":
+    [
+        {
+            "SystemCode": "TratoDigest",
+            "SystemType": "Simpático",
+            "System": "Trato digestório",
+            "QuestionTheme": "Efeito",
+            "Answer": "Diminui a motilidade e a secreção",
+            "Hint": "simpático é relacionado a luta ou fuga.",
+            "Options": ["Aumenta a motilidade e a secreção", "Promove lipólise", "Diminui a motilidade e aumenta a secreção"]
+        },
+        {
+            "SystemCode": "Panc",
+            "SystemType": "Simpático",
+            "System": "Pâncreas",
+            "QuestionTheme": "Efeito",
+            "Answer": "Redução da secreção de insulina",
+            "Hint": "simpático é relacionado a luta ou fuga.",
+            "Options": ["Aumenta a motilidade e a secreção", "Aumento da secreção de insulina", "Diminui a motilidade e a secreção"]
+        },
+        {
+            "SystemCode": "MedSupra",
+            "SystemType": "Simpático",
+            "System": "Medula suprarrenal (células cromafins)",
+            "QuestionTheme": "Receptor",
+            "Answer": "Alfa e Beta",
+            "Hint": "são receptores metabotrópicos.",
+            "Options": ["M1", "M3", "Nicotínico"]
+        },
+        {
+            "SystemCode": "MedSupra",
+            "SystemType": "Simpático",
+            "System": "Medula suprarrenal (células cromafins)",
+            "QuestionTheme": "Efeito",
+            "Answer": "Secreta catecolaminas",
+            "Hint": "simpático stá relacionado à luta ou fuga.",
+            "Options": ["Secreta insulina", "Secreta glucagon", "Reduz a secreção enzimática"]
+        },
+        {
+            "SystemCode": "VasoSang",
+            "SystemType": "Simpático",
+            "System": "Vasos sanguíneos",
+            "QuestionTheme": "Receptor",
+            "Answer": "Alfa 1 e Alfa 2",
+            "Hint": "são receptores metabotrópicos.",
+            "Options": ["Alfa 1 e Beta 2", "Beta 1 e Beta 2", "Beta 1 e Alfa 2"]
+        },
+        {
+            "SystemCode": "VasoSang",
+            "SystemType": "Simpático",
+            "System": "Vasos sanguíneos",
+            "QuestionTheme": "Efeito",
+            "Answer": "Vasoconstrição",
+            "Hint": "controla o fluxo sanguíneo.",
+            "Options": ["Vasodilatação", "Broncoconstrição", "Broncodilatação"]
+        },
+        {
+            "SystemCode": "TecAdip",
+            "SystemType": "Simpático",
+            "System": "Tecido adiposo",
+            "QuestionTheme": "Efeito",
+            "Answer": "Lipólise e liberação de ácidos graxos",
+            "Hint": "uso de lipídios para produção de energia.",
+            "Options": ["Glicogenólise", "Lipogênese", "Lipólise e armazenamento de ácidos graxos"]
+        },
+        {
+            "SystemCode": "MuscEsq",
+            "SystemType": "Simpático",
+            "System": "Músculos esqueléticos",
+            "QuestionTheme": "Efeito",
+            "Answer": "Glicogenólise e termogênese",
+            "Hint": "produção de energia para utilização.",
+            "Options": ["Glicogênese", "Produção de glicose inalterada", "Promove lipólise"]
+        },
+        {
+            "SystemCode": "HipofPost",
+            "SystemType": "Simpático",
+            "System": "Hipófise posterior",
+            "QuestionTheme": "Efeito",
+            "Answer": "Estimula a secreção de ADH",
+            "Hint": "simpático está relacionado a luta ou fuga.",
+            "Options": ["Inibe secreção de ADH", "Produção hormonal inalterada", "Promove lipólise"]
+        },
+        {
+            "SystemCode": "Veia",
+            "SystemType": "Simpático",
+            "System": "Veias",
+            "QuestionTheme": "Receptor",
+            "Answer": "Alfa",
+            "Hint": "receptor que responde fortemente a noradrenalina e fracamente a adrenalina.",
+            "Options": ["Beta", "Beta 3", "M3"]
+        },
+        {
+            "SystemCode": "Veia",
+            "SystemType": "Simpático",
+            "System": "Veias",
+            "QuestionTheme": "Efeito",
+            "Answer": "Contração",
+            "Hint": "vasoconstrição.",
+            "Options": ["Relaxamento", "Nenhum efeito", "Vasodilatação"]
+        },
+        {
+            "SystemCode": "CortGlandSupra",
+            "SystemType": "Simpático",
+            "System": "Córtex das glândulas suprarrenais",
+            "QuestionTheme": "Efeito",
+            "Answer": "Síntese e liberação de glicocorticoides",
+            "Hint": "liberação do principal hormônio relacionado ao estresse.",
+            "Options": ["Inibe secreção de glicocorticoides", "Produção dos glicocorticoides inalterada", "Glicogênese"]
+        },
+        {
+            "SystemCode": "ArtCut",
+            "SystemType": "Simpático",
+            "System": "Artérias cutâneas",
+            "QuestionTheme": "Efeito",
+            "Answer": "Vasoconstrição",
+            "Hint": "contração da parede.",
+            "Options": ["Vasodilatação", "Ausência de efeitos", "Reduz a secreção enzimática"]
+        },
+        {
+            "SystemCode": "ArtMusc",
+            "SystemType": "Simpático",
+            "System": "Artérias musculares",
+            "QuestionTheme": "Efeito",
+            "Answer": "Dilatação",
+            "Hint": "relaxamento da parede.",
+            "Options": ["Constrição", "Ausência de efeitos", "Inibe secreção de glicocorticoides"]
+        },
+        {
+            "SystemCode": "TecAdipMar",
+            "SystemType": "Simpático",
+            "System": "Tecido adiposo marrom",
+            "QuestionTheme": "Efeito",
+            "Answer": "Termogênese",
+            "Hint": "processo de produção de calor para gerar ATP.",
+            "Options": ["Lipogênese", "Não altera o metabolismo dos lipídeos", "Aumento na motilidade"]
+        },
+        {
+            "SystemCode": "CelAcinPanc",
+            "SystemType": "Simpático",
+            "System": "Células acinares pancreáticas",
+            "QuestionTheme": "Efeito",
+            "Answer": "Inibe a secreção de enzimas digestivas",
+            "Hint": "simpático é relacionado a luta ou fuga.",
+            "Options": ["Estimula a secreção de enzimas digestivas", "Não altera a secreção", "Secreta insulina"]
+        },
+        {
+            "SystemCode": "ArtRen",
+            "SystemType": "Simpático",
+            "System": "Artéria renal",
+            "QuestionTheme": "Receptor",
+            "Answer": "Alfa",
+            "Hint": "receptor que responde fortemente a noradrenalina e fracamente a adrenalina.",
+            "Options": ["Beta", "Muscarínico", "Nicotínico"]
+        },
+        {
+            "SystemCode": "Uret",
+            "SystemType": "Simpático",
+            "System": "Ureter",
+            "QuestionTheme": "Efeito",
+            "Answer": "Aumento do tônus e da motilidade",
+            "Hint": "simpático está relacionado a luta ou fuga.",
+            "Options": ["Redução do tônus e da motilidade", "Aumento do tônus e redução da motilidade", "Redução do tônus e aumento da motilidade"]
+        },
+        {
+            "SystemCode": "Fig",
+            "SystemType": "Simpático",
+            "System": "Fígado",
+            "QuestionTheme": "Efeito",
+            "Answer": "Glicogenólise e gliconeogênese",
+            "Hint": "formação de glicose.",
+            "Options": ["não tem efeito", "Glicólise", "Síntese de glicogênio"]
+        },
+        {
+            "SystemCode": "Fig",
+            "SystemType": "Simpático",
+            "System": "Fígado",
+            "QuestionTheme": "Efeito",
+            "Answer": "Reduz a secreção de bile",
+            "Hint": "simpático está relacionado a luta ou fuga.",
+            "Options": ["Formação de glicose", "Aumenta a secreção de bile", "Síntese de glicogênio"]
+        },
+        {
+            "SystemCode": "Panc",
+            "SystemType": "Simpático",
+            "System": "Pâncreas",
+            "QuestionTheme": "Efeito",
+            "Answer": "Promove a secreção de glucagon",
+            "Hint": "hormônio liberado quando a glicemia está baixa.",
+            "Options": ["Promove a secreção de insulina", "Reduz a secreção de glucagon", "Inibe a secreção de glucagon"]
+        },
+        {
+            "SystemCode": "MedGlandSupra",
+            "SystemType": "Simpático",
+            "System": "Medula das glândulas suprarrenais",
+            "QuestionTheme": "Neurotransmissor",
+            "Answer": "Acetilcolina",
+            "Hint": "sua liberação pode ser bloqueada pela toxina botulínica.",
+            "Options": ["Noradrenalina", "Dopamina", "Adrenalina"]
+        },
+        {
+            "SystemCode": "MedGlandSupra",
+            "SystemType": "Simpático",
+            "System": "Medula das glândulas suprarrenais",
+            "QuestionTheme": "Efeito",
+            "Answer": "Secreção de adrenalina e noradrenalina",
+            "Hint": "aumenta as catecolaminas.",
+            "Options": ["Inibe a secreção de adrenalina e noradrenalina", "Reduz a secreção de adrenalina e noradrenalina", "Inibe secreção de adrenalina"]
+        },
+        {
+            "SystemCode": "ApaResp",
+            "SystemType": "Simpático",
+            "System": "Aparelho Respiratório",
+            "QuestionTheme": "Efeito",
+            "Answer": "Aumenta a frequência respiratória",
+            "Hint": "taquipnéia.",
+            "Options": ["Reduz a frequência respiratória", "Sem alterações na frequência respiratória", "Paralisa o aparelho respiratório"]
+        },
+        {
+            "SystemCode": "AtivCereb",
+            "SystemType": "Simpático",
+            "System": "Atividade cerebral",
+            "QuestionTheme": "Efeito",
+            "Answer": "Estado de alerta, aumenta motivação e atenção",
+            "Hint": "melhora do foco, resposta rápida a estímulos externos.",
+            "Options": ["Relaxamento e sonolência", "Redução do foco e estado de alerta", "Aumenta motivação, mas reduz a atenção"]
+        },
+        {
+            "SystemCode": "SistUrin",
+            "SystemType": "Simpático",
+            "System": "Sistema urinário",
+            "QuestionTheme": "Efeito",
+            "Answer": "Reduz a formação de urina",
+            "Hint": "simpático é relacionado a luta ou fuga.",
+            "Options": ["Aumenta a formação de urina", "Não altera a produção de urina", "Cessa a produção de urina"]
+        },
+        {
+            "SystemCode": "VesBilDuctBil",
+            "SystemType": "Simpático",
+            "System": "Vesícula biliar e ductos biliares",
+            "QuestionTheme": "Efeito",
+            "Answer": "Relaxamento para facilitar o armazenamento de bile na vesícula biliar",
+            "Hint": "neste momento a bile sintetizada é estocada.",
+            "Options": ["Contração para expulsar a bile da vesícula biliar", "Relaxamento para facilitar a expulsão da bile na vesícula biliar", "Contração para facilitar o armazenamento de bile na vesícula biliar"]
+        },
+        {
+            "SystemCode": "Fig",
+            "SystemType": "Parassimpático",
+            "System": "Fígado",
+            "QuestionTheme": "Efeito",
+            "Answer": "Aumenta a secreção de bile",
+            "Hint": "sistema nervoso parassimpático é relacionado a descanso e alimentação.",
+            "Options": ["Reduz a secreção de bile", "Não altera a secreção biliar", "Síntese de glicogênio"]
+        },
+        {
+            "SystemCode": "Cor",
+            "SystemType": "Parassimpático",
+            "System": "Coração",
+            "QuestionTheme": "Efeito",
+            "Answer": "Reduz força de contração atrial",
+            "Hint": "sistema nervoso parassimpático é relacionado a descanso e alimentação.",
+            "Options": ["Aumenta a força de contração atrial", "Não altera força de contração atrial", "Impede contração atrial"]
+        },
+        {
+            "SystemCode": "Fig",
+            "SystemType": "Parassimpático",
+            "System": "Fígado",
+            "QuestionTheme": "Efeito",
+            "Answer": "Pequena síntese de glicogênio",
+            "Hint": "parassimpático está bastante ativado após as refeições.",
+            "Options": ["Glicólise", "Reduz a motilidade e a secreção", "Glicogênese"]
+        },
+        {
+            "SystemCode": "TratoDigest",
+            "SystemType": "Parassimpático",
+            "System": "Trato digestório",
+            "QuestionTheme": "Efeito",
+            "Answer": "Aumenta a motilidade e a secreção",
+            "Hint": "Parassimpático: descanso e digestão.",
+            "Options": ["Reduz motilidade", "Reduz secreção", "Reduz a frequência e a força de contração"]
+        },
+        {
+            "SystemCode": "Bex",
+            "SystemType": "Parassimpático",
+            "System": "Bexiga",
+            "QuestionTheme": "Efeito",
+            "Answer": "Liberação da urina",
+            "Hint": "sistema nervoso parassimpático é relacionado a descanso e alimentação.",
+            "Options": ["Contenção da urina", "Aumenta a secreção de renina", "Reduz a secreção de renina"]
+        },
+        {
+            "SystemCode": "VesBilDuctBil",
+            "SystemType": "Parassimpático",
+            "System": "Vesícula biliar e ductos biliares",
+            "QuestionTheme": "Efeito",
+            "Answer": "Contração e liberação de bile no intestino delgado",
+            "Hint": "sistema nervoso parassimpático é relacionado a descanso e alimentação.",
+            "Options": ["Contração e armazenamento de bile no intestino delgado", "Relaxamento e liberação de bile no intestino delgado", "Relaxamento e armazenamento de bile no intestino delgado"]
+        },
+	    {
+            "SystemCode": "sna",
+            "SystemType": "Geral",
+            "System": "Sistema nervoso autônomo",
+            "QuestionTheme": "Quais são as divisões do sistema nervoso autônomo?",
+            "Answer": "Sistema simpático e parassimpático",
+            "Hint": "o sistema nervoso autônomo possui divisões com atividades, em sua maioria, antagônicas.",
+            "Options": ["Sistema nervoso central e periférico", "Sistema medular e cerebral", "Sistema visceral e não visceral"]
+        },
+	    {
+            "SystemCode": "sna",
+            "SystemType": "Geral",
+            "System": "Sistema nervoso autônomo",
+            "QuestionTheme": "O sistema nervoso autônomo opera por meio de?",
+            "Answer": "Reflexos viscerais e respostas reflexas subconscientes",
+            "Hint": "o controle autonômico é involuntário.",
+            "Options": ["Reflexos viscerais e respostas reflexas conscientes", "Reflexos somáticos e respostas reflexas conscientes", "Reflexos somáticos e respostas reflexas subconscientes"]
+        },
+	    {
+            "SystemCode": "simp",
+            "SystemType": "Geral",
+            "System": "Sistema nervoso autônomo simpático",
+            "QuestionTheme": "As fibras nervosas simpáticas se originam entre?",
+            "Answer": "T1 – L5",
+            "Hint": "as fibras parassimpáticas saem dos nervos cranianos e nervos sacrais",
+            "Options": ["C1 - L5", "C5 - T12", "L1 - S5"]
+        },
+	    {
+            "SystemCode": "parassimp",
+            "SystemType": "Geral",
+            "System": "Sistema nervoso autônomo parassimpático",
+            "QuestionTheme": "A medula adrenal recebe fibras:",
+            "Answer": "Pré-ganglionares simpáticas longas",
+            "Hint": "as células cromafins adrenais produzem catecolaminas e são células nervosas rudimentares, funcionando como neurônios pós-ganglionares",
+            "Options": ["Pré-ganglionares parassimpáticas longas", "Pré-ganglionares simpáticas curtas", "Pré-ganglionares parassimpáticas curtas"]
+        },
+	    {
+            "SystemCode": "sna",
+            "SystemType": "Geral",
+            "System": "Sistema nervoso autônomo",
+            "QuestionTheme": "Cada via autonômica é formada, no geral, por:",
+            "Answer": "Um neurônio pré-ganglionar e um neurônio pós-ganglionar",
+            "Hint": "nos gânglios ocorre uma sinapse",
+            "Options": ["Um neurônio pré-ganglionar e um neurônio motor", "Um neurônio sensitivo e um neurônio motor", "Um neurônio sensitivo e um neurônio pós ganglionar"]
+        },
+	    {
+            "SystemCode": "sna",
+            "SystemType": "Geral",
+            "System": "Sistema nervoso autônomo",
+            "QuestionTheme": "Os principais neurotransmissores liberados pelos neurônios pós ganglionares do sistema nervoso autônomo simpático e parassimpático são, respectivamente:",
+            "Answer": "Noradrenalina e acetilcolina",
+            "Hint": "o sistema nervoso autônomo simpático está muito ativo na resposta de luta ou fuga, enquanto o parassimpático está mais ativo no período pós prandial",
+            "Options": ["Acetilcolina e noradrenalina", "Adrenalina e GABA", "Glutamato e acetilcolina"]
+        },
+	    {
+            "SystemCode": "parassimp",
+            "SystemType": "Geral",
+            "System": "parassimpático",
+            "QuestionTheme": "Os nervos parassimpáticos deixam o sistema nervoso central por meio de nervos:",
+            "Answer": "Cranianos e sacrais",
+            "Hint": ": o sistema nervoso simpático é também denominado tóraco-lombar.",
+            "Options": ["Cervicais e torácicos", "Cervicais e sacrais", "Torácicos e lombares"]
+        },
+	    {
+            "SystemCode": "parassimp",
+            "SystemType": "Geral",
+            "System": "Parassimpático",
+            "QuestionTheme": "O nervo responsável pela maior parte da inervação parassimpático é o:",
+            "Answer": "Nervo vago",
+            "Hint": "é o IX par de nervos cranianos",
+            "Options": ["Nervo oculomotor", "Nervo torácico longo", "Nervo facial"]
+        },
+	    {
+            "SystemCode": "parassimp",
+            "SystemType": "Geral",
+            "System": "Parassimpático",
+            "QuestionTheme": "As fibras parassimpáticas sacrais inervam:",
+            "Answer": "Cólon descendente, reto, bexiga, ureteres e genitália externa",
+            "Hint": "fibras parassimpáticas saem de nervos cranianos e sacrais. ",
+            "Options": ["Coração e vasos sanguíneos", "Músculos esqueléticos dos membros inferiores", "Glândulas salivares, esôfago e estômago"]
+        },
+	    {
+            "SystemCode": "parassimp",
+            "SystemType": "Geral",
+            "System": "Parassimpático",
+            "QuestionTheme": "O sistema nervoso parassimpático possui:",
+            "Answer": "Neurônio pré ganglionar longo e pós ganglionar curto",
+            "Hint": "A maioria dos gânglios parassimpáticos estão localizados na parede dos órgãos-alvo",
+            "Options": ["Neurônio pré-ganglionar curto e pós ganglionar longo", "Neurônio pré ganglionar e pós ganglionar curtos", "Neurônio pré ganglionar e pós ganglionar longos"]
+        },
+	    {
+            "SystemCode": "simp",
+            "SystemType": "Geral",
+            "System": "Simpático",
+            "QuestionTheme": "Os neurônios pré-ganglionares simpáticos secretam:",
+            "Answer": "acetilcolina",
+            "Hint": "neurônios pós ganglionares simpáticos tem receptores nicotínicos.",
+            "Options": ["adrenalina", "noradrenalina", "glutamato"]
+        },
+	    {
+            "SystemCode": "parassimp",
+            "SystemType": "Geral",
+            "System": "parassimpático",
+            "QuestionTheme": "Os neurônios pré-ganglionares parassimpáticos secretam:",
+            "Answer": "acetilcolina",
+            "Hint": "neurônios pós ganglionares parassimpáticos tem receptores nicotínicos.",
+            "Options": ["adrenalina", "noradrenalina", "glutamato"]
+        },
+	    {
+            "SystemCode": "simp",
+            "SystemType": "Geral",
+            "System": "Simpático",
+            "QuestionTheme": "A maioria dos neurônios pós-ganglionares simpáticos são:",
+            "Answer": "noradrenérgicos",
+            "Hint": "o simpático é o sistema de luta ou fuga",
+            "Options": ["colinérgicos", "glutamatérgicos", "gabaérgicos"]
+        },
+	    {
+            "SystemCode": "parassimp",
+            "SystemType": "Geral",
+            "System": "Parassimpático",
+            "QuestionTheme": "Os neurônios pós-ganglionares parassimpáticos são, em sua maioria:",
+            "Answer": "colinérgicos",
+            "Hint": "o sistema nervoso autônomo possui divisões com atividades, em sua maioria, antagônicas.",
+            "Options": ["adrenérgicos", "glutamatérgicos", "gabaérgicos"]
+        },
+	    {
+            "SystemCode": "simp",
+            "SystemType": "Geral",
+            "System": "Simpático",
+            "QuestionTheme": "Os receptores adrenérgicos podem ser:",
+            "Answer": "alfa e beta",
+            "Hint": "os neurotransmissores do SNA simpático são noradrenalina e adrenalina",
+            "Options": ["M1, M2 e M3", "Alfa, beta e gama","μ (mu), κ (capa) e σ (delta)" ]
+        },
+	    {
+            "SystemCode": "simp",
+            "SystemType": "Geral",
+            "System": "Simpático",
+            "QuestionTheme": "Os receptores alfa:",
+            "Answer": "Podem ter função excitatória ou inibitória",
+            "Hint": "a ação dependerá do tipo de mecanismo de transdução do receptor de proteína G de cada órgão-alvo.",
+            "Options": ["São sempre excitatórios", "São sempre inibitórios", "Tem efeito nulo"]
+        }
+    ]
+}

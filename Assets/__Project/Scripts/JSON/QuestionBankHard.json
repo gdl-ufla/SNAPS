@@ -1,0 +1,356 @@
+{
+    "Questions":
+    [
+        {
+            "SystemCode": "Fig",
+            "SystemType": "Simpático",
+            "System": "Fígado",
+            "QuestionTheme": "Efeito",
+            "Answer": "Liberação de glicose",
+            "Hint": "simpático é relacionado a luta ou fuga.",
+            "Options": ["Gliconeogênese", "Secreta glucagon"]
+        },
+        {
+            "SystemCode": "Bex",
+            "SystemType": "Simpático",
+            "System": "Bexiga",
+            "QuestionTheme": "Neurotransmissor",
+            "Answer": "Noradrenalina",
+            "Hint": "sintetizado a partir do aminoácido tirosina e ainda pode sofrer transformação em outro neurotransmissor.",
+            "Options": ["Acetilcolina", "Adrenalina"]
+        },
+        {
+            "SystemCode": "Bex",
+            "SystemType": "Simpático",
+            "System": "Bexiga",
+            "QuestionTheme": "Efeito",
+            "Answer": "Retenção da urina",
+            "Hint": "simpático é relacionado a luta ou fuga.",
+            "Options": ["Liberação da urina", "Secreção de renina"]
+        },
+        {
+            "SystemCode": "Rim",
+            "SystemType": "Simpático",
+            "System": "Rins",
+            "QuestionTheme": "Efeito",
+            "Answer": "Aumenta a secreção da renina",
+            "Hint": "o sistema renina angiotensina aldosteronas ajuda a reter volume.",
+            "Options": ["Liberação da urina", "Inibe a secreção de renina"]
+        },
+        {
+            "SystemCode": "ArterilGlandIntest",
+            "SystemType": "Simpático",
+            "System": "Arteríolas das glândulas intestinais",
+            "QuestionTheme": "Efeito",
+            "Answer": "Vasoconstrição",
+            "Hint": "contração da parede do vaso.",
+            "Options": ["Vasodilatação", "Parede do vaso inalterada"]
+        },
+        {
+            "SystemCode": "ArterilPeleTunMuc",
+            "SystemType": "Simpático",
+            "System": "Arteríolas da pele e de túnicas mucosas",
+            "QuestionTheme": "Efeito",
+            "Answer": "Vasoconstrição",
+            "Hint": "contração da parede do vaso.",
+            "Options": ["Vasodilatação", "Parede do vaso inalterada"]
+        },
+        {
+            "SystemCode": "ArterilViscAbd",
+            "SystemType": "Simpático",
+            "System": "Arteríolas de vísceras abdominais",
+            "QuestionTheme": "Efeito",
+            "Answer": "Vasoconstrição",
+            "Hint": "contração da parede do vaso.",
+            "Options": ["Vasodilatação", "Parede do vaso inalterada"]
+        },
+        {
+            "SystemCode": "ArterilRen",
+            "SystemType": "Simpático",
+            "System": "Arteríolas renais",
+            "QuestionTheme": "Efeito",
+            "Answer": "Vasoconstrição",
+            "Hint": "contração da parede do vaso.",
+            "Options": ["Vasodilatação", "Parede do vaso inalterada"]
+        },
+        {
+            "SystemCode": "GlandPit",
+            "SystemType": "Simpático",
+            "System": "Glândula pituitária (hipófise)",
+            "QuestionTheme": "Efeito",
+            "Answer": "Estimula a secreção de GH",
+            "Hint": "aumento dos níveis de hormônio do crescimento",
+            "Options": ["Inibe a secreção de GH", "Não altera a secreção de GH"]
+        },
+        {
+            "SystemCode": "NeuroHipof",
+            "SystemType": "Simpático",
+            "System": "Neuro-hipófise",
+            "QuestionTheme": "Efeito",
+            "Answer": "Estimula a secreção de ADH",
+            "Hint": "aumento da liberação do hormônio responsável por reduzir a diurese.",
+            "Options": ["Inibe a secreção de ADH", "Não altera a secreção de ADH"]
+        },
+        {
+            "SystemCode": "GlandSaliv",
+            "SystemType": "Parassimpático",
+            "System": "Glândula salivária",
+            "QuestionTheme": "Efeito",
+            "Answer": "Secreção aquosa",
+            "Hint": "secreção menos concentrada.",
+            "Options": ["Secreção com enzimas", "Secreção com muco"]
+        },
+        {
+            "SystemCode": "Panc",
+            "SystemType": "Parassimpático",
+            "System": "Pâncreas",
+            "QuestionTheme": "Neurotransmissor",
+            "Answer": "Acetilcolina",
+            "Hint": "sua liberação pode ser bloqueada pela toxina botulínica.",
+            "Options": ["Adrenalina", "Noradrenalina"]
+        },
+        {
+            "SystemCode": "Panc",
+            "SystemType": "Parassimpático",
+            "System": "Pâncreas",
+            "QuestionTheme": "Efeito",
+            "Answer": "Aumenta a secreção enzimática e estimula a secreção de insulina",
+            "Hint": "parassimpático está relacionado a descanso e digestão.",
+            "Options": ["Inibe a secreção de insulina e aumenta a secreção enzimática", "Aumenta a secreção enzimática e inibe a secreção de insulina"]
+        },
+        {
+            "SystemCode": "SistNervCent",
+            "SystemType": "Parassimpático",
+            "System": "Sistema Nervoso Central",
+            "QuestionTheme": "Neurotransmissor",
+            "Answer": "Acetilcolina",
+            "Hint": "sua liberação pode ser bloqueada pela toxina botulínica.",
+            "Options": ["Adrenalina", "Noradrenalina"]
+        },
+        {
+            "SystemCode": "SistNervCent",
+            "SystemType": "Parassimpático",
+            "System": "Sistema Nervoso Central",
+            "QuestionTheme": "Efeito",
+            "Answer": "Excitação, atenção e analgesia",
+            "Hint": "foco, ansiedade e redução da dor.",
+            "Options": ["Calma e desatenção", "Sonolência e angústia"]
+        },
+        {
+            "SystemCode": "BexUrin",
+            "SystemType": "Parassimpático",
+            "System": "Bexiga urinária",
+            "QuestionTheme": "Efeito",
+            "Answer": "Contração do esfíncter externo da uretra conscientemente a micção",
+            "Hint": "parassimpático se opõe ao simpático neste caso.",
+            "Options": ["Relaxamento do esfíncter externo da uretra conscientemente a micção", "Sem efeito"]
+        },
+        {
+            "SystemCode": "ArterilGlandGast",
+            "SystemType": "Parassimpático",
+            "System": "Arteríolas das glândulas gástricas",
+            "QuestionTheme": "Efeito",
+            "Answer": "Estimula a secreção de suco gástrico",
+            "Hint": "sistema nervoso parassimpático é relacionado a descanso e alimentação.",
+            "Options": ["Inibe a secreção de suco gástrico", "Secreção de suco gástrico inalterada"]
+        },
+        {
+            "SystemCode": "ArterilGlandIntest",
+            "SystemType": "Parassimpático",
+            "System": "Arteríolas das glândulas intestinais",
+            "QuestionTheme": "Neurotransmissor",
+            "Answer": "Acetilcolina",
+            "Hint": "sua ação é interrompida pela butirilcolinesterase.",
+            "Options": ["Adrenalina", "Noradrenalina"]
+        },
+        {
+            "SystemCode": "ArterilGlandIntest",
+            "SystemType": "Parassimpático",
+            "System": "Arteríolas das glândulas intestinais",
+            "QuestionTheme": "Efeito",
+            "Answer": "Estimula a secreção de suco intestinal",
+            "Hint": "sistema nervoso parassimpático é relacionado a descanso e alimentação.",
+            "Options": ["Inibe a secreção de suco intestinal", "Secreção de suco intestinal inalterada"]
+        },
+        {
+            "SystemCode": "ArterilPeleTunMuc",
+            "SystemType": "Parassimpático",
+            "System": "Arteríolas da pele e de túnicas mucosas",
+            "QuestionTheme": "Efeito",
+            "Answer": "Vasodilatação",
+            "Hint": "relaxamento da musculatura vascular.",
+            "Options": ["Vasoconstrição", "Não altera o tônus do vaso"]
+        },
+        {
+            "SystemCode": "Pulm",
+            "SystemType": "Parassimpático",
+            "System": "Pulmões",
+            "QuestionTheme": "Efeito",
+            "Answer": "Estimula a secreção de muco",
+            "Hint": "aumento na produção de secreções em geral.",
+            "Options": ["Diminuição da produção de secreção de muco", "Supressão total da secreção de muco"]
+        },
+        {
+            "SystemCode": "BexUrin",
+            "SystemType": "Parassimpático",
+            "System": "Bexiga urinária",
+            "QuestionTheme": "Efeito",
+            "Answer": "Relaxamento do esfíncter uretral interno",
+            "Hint": "sistema nervoso parassimpático é relacionado a descanso e alimentação.",
+            "Options": ["Contração do esfíncter uretral interno", "Não altera o tônus do esfíncter uretral interno"]
+        },
+        {
+            "SystemCode": "MuscEsq",
+            "SystemType": "Parassimpático",
+            "System": "Músculos esqueléticos",
+            "QuestionTheme": "Neurotransmissor",
+            "Answer": "Acetilcolina",
+            "Hint": "sua liberação pode ser bloqueada pela toxina botulínica.",
+            "Options": ["Noradrenalina", "Adrenalina"]
+        },
+        {
+            "SystemCode": "MuscEsq",
+            "SystemType": "Parassimpático",
+            "System": "Músculos esqueléticos",
+            "QuestionTheme": "Efeito",
+            "Answer": "Contração do Músculos esqueléticos",
+            "Hint": "encurtamento dos sarcômeros.",
+            "Options": ["Relaxamento do Músculos esqueléticos", "Sem alterações"]
+        },
+        {
+            "SystemCode": "simp",
+            "SystemType": "Geral",
+            "System": "Simpático",
+            "QuestionTheme": "As fibras pós ganglionares simpáticas:",
+            "Answer": "Se originam nos gânglios da cadeia simpática e se dirigem para diversos órgãos",
+            "Hint": "o sistema simpático possui fibras pré ganglionares e pós ganglionares",
+            "Options": ["Se originam na medula e se dirigem para os músculos esqueléticos", "Se originam na medula e se dirigem para o órgão efetor"]
+        },
+        {
+            "SystemCode": "simp",
+            "SystemType": "Geral",
+            "System": "Simpático",
+            "QuestionTheme": "As fibras motoras simpáticas saem do:",
+            "Answer": "Corno anterior da medula",
+            "Hint": "as fibras sensoriais (aferentes) chegam na medula pelo corno posterior.",
+            "Options": ["Corno posterior da medula","Corno lateral da medula"]
+        },
+	    {
+            "SystemCode": "simp",
+            "SystemType": "Geral",
+            "System": "Simpático",
+            "QuestionTheme": "São gânglios do sistema nervoso simpático:",
+            "Answer": "Gânglio celíaco, hipogástrico e gânglios da cadeia simpática",
+            "Hint": "o simpático se estabelece ao longo da coluna torácica e lombar. ",
+            "Options": ["Gânglio dos nervos trigêmeo, glossofaríngeo e facial", "Gânglio dos nervos facial, vago e oculomotor"]
+        },
+	    {
+            "SystemCode": "sna",
+            "SystemType": "Geral",
+            "System": "Sistema nervoso autônomo",
+            "QuestionTheme": "Os receptores de norepinefrina, epinefrina e acetilcolina no SNA são receptores:",
+            "Answer": "De membrana ",
+            "Hint": "quando o neurotransmissor se liga ao receptor, isso gera ativação de receptores ionotrópicos ou metabotrópicos",
+            "Options": ["nucleares", "citoplasmáticos"]
+        },
+	    {
+            "SystemCode": "sna",
+            "SystemType": "Geral",
+            "System": "Sistema nervoso autônomo",
+            "QuestionTheme": "A ação dentro da célula após a ligação do neurotransmissor ao seu receptor pode se dar por meio de:",
+            "Answer": "Modulação da atividade de receptores metabotrópicos e ionotrópicos",
+            "Hint": "a resposta dos órgãos à ação do sistema nervoso autônomo envolve receptores de membrana.",
+            "Options": ["Modulação de receptores com atividade tirosina-quinase", "Modulação de receptores nucleares"]
+        },
+	    {
+            "SystemCode": "sna",
+            "SystemType": "Geral",
+            "System": "Sistema nervoso autônomo",
+            "QuestionTheme": "Os receptores nicotínicos respondem a __________ e são encontrados ____________:",
+            "Answer": "Acetilcolina; nos gânglios do SNA simpático e parassimpático",
+            "Hint": "a acetilcolina é o neurotransmissor presente tanto no SNA simpático quanto no parassimpático.",
+            "Options": ["Acetilcolina; nos gânglios do SNA parassimpático apenas.", "Noradrenalina; nos gânglios do SNA simpático"]
+        },
+	    {
+            "SystemCode": "sna",
+            "SystemType": "Geral",
+            "System": "Sistema nervoso autônomo",
+            "QuestionTheme": "Os receptores muscarínicos estão presentes:",
+            "Answer": "Nas células efetoras do parassimpático",
+            "Hint": "existem dois receptores para acetilcolina, os muscarínicos e os nicotínicos.",
+            "Options": ["No gânglio simpático", "No gânglio parassimpático"]
+        },
+	    {
+            "SystemCode": "simp",
+            "SystemType": "Geral",
+            "System": "Simpático",
+            "QuestionTheme": "A norepinefrina excita em maior grau receptores:",
+            "Answer": "Alfa",
+            "Hint": "a epinefrina tem maior afinidade pelos receptores beta",
+            "Options": ["Beta", "M1"]
+        },
+	    {
+            "SystemCode": "simp",
+            "SystemType": "Geral",
+            "System": "Simpático",
+            "QuestionTheme": "A epinefrina tem:",
+            "Answer": "Afinidade semelhante para receptores alfa e beta",
+            "Hint": "a norepinefrina tem maior afinidade pelos receptores alfa",
+            "Options": ["Maior afinidade para receptores alfa", "Maior afinidade para receptores beta"]
+        },
+	    {
+            "SystemCode": "simp",
+            "SystemType": "Geral",
+            "System": "Simpático",
+            "QuestionTheme": "O fato de a epinefrina ter alta afinidade pelos receptores beta implica em:",
+            "Answer": "ter maior ação que a norepinefrina sobre a frequência cardíaca ",
+            "Hint": "epinefrina tem efeito cronotrópico positivo",
+            "Options": ["ter maior ação que a norepinefrina sobre a vasoconstrição", "ter menor ação que a norepinefrina sobre a contratilidade cardíaca"]
+        },
+	    {
+            "SystemCode": "simp",
+            "SystemType": "Geral",
+            "System": "Simpático",
+            "QuestionTheme": "Se você deseja aumentar a resistência vascular periférica de um paciente politraumatizado com o objetivo de aumentar a pressão arterial, qual a melhor opção:",
+            "Answer": "Noradrenalina",
+            "Hint": "a noradrenalina atua melhor sob os receptores alfa do que a adrenalina",
+            "Options": ["Adrenalina", "Acetilcolina"]
+        },
+	    {
+            "SystemCode": "simp",
+            "SystemType": "Geral",
+            "System": "Simpático",
+            "QuestionTheme": "Se, em uma situação hipotética, você precisasse aumentar o débito cardíaco de um paciente, atuando o mínimo possível na resistência vascular periférica, a melhor opção seria:",
+            "Answer": "Adrenalina",
+            "Hint": "a ativação de receptores beta cardíacos tem efeito inotrópico e cronotrópico positivos",
+            "Options": ["Noradrenalina", "Acetilcolina"]
+        },
+	    {
+            "SystemCode": "simp",
+            "SystemType": "Geral",
+            "System": "Simpático",
+            "QuestionTheme": "Dentre os hormônios secretados pela adrenal, qual tem maior potencial de aumentar o metabolismo?",
+            "Answer": "Adrenalina",
+            "Hint": "80% da secreção da medula adrenal é de epinefrina",
+            "Options": ["Acetilcolina", "Noradrenalina"]
+        },
+	    {
+            "SystemCode": "simp",
+            "SystemType": "Geral",
+            "System": "Simpático",
+            "QuestionTheme": "Os receptores beta são:",
+            "Answer": "Proteína G: adenilil-ciclase/AMP cíclico",
+            "Hint": "receptores metabotrópicos",
+            "Options": ["Proteína G: fosfolipase C/DAG-IP3-cálcio", "Canais iônicos dependentes de ligantes"]
+        },
+	    {
+            "SystemCode": "sna",
+            "SystemType": "Geral",
+            "System": "Sistema nervoso autônomo",
+            "QuestionTheme": "Um paciente com bronquite fez tratamento com salbutamol (agonista beta2). Qual efeito colateral poderia ser esperado:",
+            "Answer": "Taquicardia",
+            "Hint": "mesmo uma droga seletiva para um receptor pode apresentar ligações cruzadas e causar efeitos adversos ao se ligar a receptores semelhantes",
+            "Options": ["midríase", "sudorese"]
+        }
+    ]
+}
